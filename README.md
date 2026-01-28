@@ -6,4 +6,5 @@ As part of the Computer Programming and Data Management exam, included in my MSc
 💡 With Visual Studio Code we used Python, Pandas, NumPy, Matplotlib and regression techniques to draw insights from multiple large-scale datasets.
 
 Team: Giacomo Angeletti, Tobia Bertolini, Lorenzo Cattelan, Mattia Zoccarato
+
 © 2025 – All rights reserved
